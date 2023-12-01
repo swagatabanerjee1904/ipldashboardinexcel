@@ -1,5 +1,5 @@
 # ipldashboardinexcel
-I make an IPL analysis dashboard using MS-Excel.
+
 
 **IPL Analysis Dashboard in MS-Excel**
 
@@ -48,11 +48,26 @@ Contributions are welcome! If you have suggestions, improvements, or new feature
 
 Fork the repository.
 Create a new branch for your feature (git checkout -b feature/your-feature).
+
+
 Commit your changes (git commit -m 'Add some feature').
+
+
 Push to the branch (git push origin feature/your-feature).
+
+
 Open a Pull Request.
-Issues
+
+
+**Issues**
+
+
+
+
 If you encounter any issues or have suggestions for improvements, please open an issue on the GitHub repository.
 
-License
+**License**
+
+
+
 This project is licensed under the MIT License.
