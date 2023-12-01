@@ -71,3 +71,9 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 
 This project is licensed under the MIT License.
+
+
+
+![Dashboard Screenshot](![image](https://github.com/swagatabanerjee1904/ipldashboardinexcel/assets/111900330/ad365f2d-22ee-4003-84f0-82f4d4d48a1a)
+)
+
